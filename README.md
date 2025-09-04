@@ -1,6 +1,6 @@
 ###     About me
 ![name](https://img.shields.io/badge/nurzh-yuutsu-purple)
-
+![codewars](https://www.codewars.com/users/own.yuutsu/badges/small)
 
 
 > _「頑張りすぎない」_  
