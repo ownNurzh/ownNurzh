@@ -33,7 +33,7 @@
 <h3 align="center">🪶 Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ownnurzh&hide_border=true&bg_color=2d2b55&color=FFD700&line=a599e9&point=b362ff&days=15" alt="GitHub Activity Graph" width = "500px" height = "160px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ownnurzh&hide_border=true&bg_color=2d2b55&color=FFD700&line=a599e9&point=b362ff&days=15" alt="GitHub Activity Graph" height = "160px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ownnurzh&show_icons=true&locale=en&theme=shades-of-purple&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160px"/>
 </div>
 
