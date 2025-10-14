@@ -8,14 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=ownnurzh&label=Profile%20views&color=84a87c&style=flat-square" alt="profile views"/>
 </p>
 
-<blockquote>
-<p><em>「焦らず、でも止まらず。」</em><br>
-<i>Don’t rush, but don’t stop.</i></p>
-
-<p><em>「小さな前進も、美しい。」</em><br>
-<i>Even small steps are beautiful.</i></p>
-</blockquote>
-
 <ul>
   <li><b>name</b>: <code>yuutsu</code></li>
   <li><b>fav</b>: <code>lua</code>, <code>python</code>, <code>javascript</code></li>
@@ -38,27 +30,21 @@
 
 ---
 
-<h3 align="center">🍂 Stats</h3>
+<h3 align="center">🪶 Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ownnurzh&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ownnurzh&theme=transparent&hide_border=true" alt="GitHub Streak" height="160px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ownnurzh&hide_border=true&bg_color=2d2b55&color=FFD700&line=a599e9&point=b362ff&days=15" alt="GitHub Activity Graph" width = "500px" height = "160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ownnurzh&show_icons=true&locale=en&theme=shades-of-purple&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160px"/>
 </div>
 
 ---
 
-<pre>
-(\ 
-'\ 
- '\     __________  
- / '|   ()_________)
- \ '/    \ ~~~~~~~~ \
-   \       \ ~~~~~~   \
-   ==).      \__________\
-  (__)       ()__________)
-</pre>
+<h3 align="center">🍃 Quotes</h3>
 
-<p align="center"><i>didn’t aim for perfection — sleep won.</i></p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=FFD700&symbolColor=b362ff&backgroundColor=2d2b55&authorColor=a599e9&author=Mumei(無名)&quote=%E3%80%8C%E7%84%A6%E3%82%89%E3%81%9A%E3%80%81%E3%81%A7%E3%82%82%E6%AD%A2%E3%81%BE%E3%82%89%E3%81%9A%E3%80%82%E3%80%8DDon%E2%80%99t%20rush%2C%20but%20don%E2%80%99t%20stop." height = "160px"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=FFD700&symbolColor=b362ff&backgroundColor=2d2b55&authorColor=a599e9&author=Mumei(無名)&quote=%E3%80%8C%E5%B0%8F%E3%81%95%E3%81%AA%E5%89%8D%E9%80%B2%E3%82%82%E3%80%81%E7%BE%8E%E3%81%97%E3%81%84%E3%80%82%E3%80%8DEven%20small%20steps%20are%20beautiful." height = "160px"/>
+</div>
 
 ---
 
