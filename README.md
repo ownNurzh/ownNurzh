@@ -17,10 +17,10 @@
 </blockquote>
 
 <ul>
-  <li><b>name</b>: <code>yuutsu</code></li>
-  <li><b>fav</b>: <code>lua</code>, <code>python</code>, <code>javascript</code></li>
-  <li><b>aesthetic</b>: <code>侘寂</code></li>
-  <li><b>state</b>: <i>somewhere between silence and code</i></li>
+  <li><b>name</b>: <code style="color:#9370DB;">yuutsu</code></li>
+  <li><b>fav</b>: <code style="color:#9370DB;">lua</code>, <code style="color:#9370DB;">python</code>, <code style="color:#9370DB;">javascript</code></li>
+  <li><b>aesthetic</b>: <code style="color:#9370DB;">侘寂</code></li>
+  <li><b>state</b>: <i><code style="color:#9370DB;">somewhere between silence and code</code></i></li>
 </ul>
 
 ---
