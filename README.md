@@ -20,7 +20,7 @@
 
 <div align="center">
 
-**fav:** `lua` · `python` · `javascript` · `assembler`<br/>
+**fav:** `lua` · `python` · `javascript` · `assembly`<br/>
 **aesthetic:** `侘寂`
 
 </div>
