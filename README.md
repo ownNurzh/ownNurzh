@@ -47,11 +47,5 @@
 <br>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quoteColor=FFD700&symbolColor=b362ff&backgroundColor=2d2b55&authorColor=a599e9&author=Mumei(無名)&quote=%E3%80%8C%E5%B0%8F%E3%81%95%E3%81%AA%E5%89%8D%E9%80%B2%E3%82%82%E3%80%81%E7%BE%8E%E3%81%97%E3%81%84%E3%80%82%E3%80%8DEven%20small%20steps%20are%20beautiful." height = "120px" alt = "Quote"/>
-</div>
-
-<br>
-
-<div align="center">
   <sub>「beauty in imperfection, quiet, and simplicity.」</sub>
 </div>
